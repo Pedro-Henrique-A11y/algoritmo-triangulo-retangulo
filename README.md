@@ -31,8 +31,8 @@ Terminal
    cd Python
 
 3. Executar
-4. node Ex: nome do código
-5 no python é basicamento ao mesmo coisa
+4. node Ex: Nome de (Arquivo).js Entre
+5 python Ex: Python nome do (Arquivo).py
 
 💡 Aprendizados
 Entrada de dados
